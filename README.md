@@ -1,16 +1,48 @@
-# google_contacts
+# Google Contacts Flutter App
 
-A new Flutter project.
+## Overview
+This is a Flutter application that allows users to manage contacts.  
+Users can add, edit, delete, and call contacts.
 
-## Getting Started
+## Features
+- Add new contacts
+- Edit existing contacts
+- Delete contacts with confirmation dialog
+- View contact details
+- Call contact directly from the app
+- Email validation
+- Local database using SQLite
+- Clean UI using Flutter
 
-This project is a starting point for a Flutter application.
+## Technologies Used
+- Flutter
+- GetX State Management
+- SQLite Database
 
-A few resources to get you started if this is your first Flutter project:
+## Installation
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+1. Clone the repository
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+git clone https://github.com/ShivDeveloper/contacts_flutter.git
+
+2. Navigate to project
+
+cd contacts_flutter
+
+3. Install dependencies
+
+flutter pub get
+
+4. Run the app
+
+flutter run
+
+## Usage
+1. Open the app
+2. Add a new contact
+3. View contact details
+4. Edit or delete contacts
+5. Call contacts directly
+
+## Author
+Shivani Mahadik
