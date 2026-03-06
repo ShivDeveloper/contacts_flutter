@@ -44,5 +44,20 @@ flutter run
 4. Edit or delete contacts
 5. Call contacts directly
 
+## Demo Video
+
+The following video demonstrates the main features of the Contacts Flutter application.
+
+Features shown in the demo:
+- Add Contact
+- Edit Contact
+- Delete Contact
+- Contact Detail Screen
+- Call Contact
+- Responsive UI
+
+📂 Video Location:  
+demo/demo.mp4
+
 ## Author
 Shivani Mahadik
